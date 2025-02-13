@@ -28,7 +28,7 @@ st.markdown("""
             font-size: 40px;
             font-weight: bold;
             text-align: center;
-            color: yellow;
+            color: #E91E63;  /* Rose Reddish Pink */
         }
         .input-container {
             display: flex;
