@@ -28,7 +28,7 @@ st.markdown("""
             font-size: 40px;
             font-weight: bold;
             text-align: center;
-            color: #4CAF50;
+            color: yellow;
         }
         .input-container {
             display: flex;
